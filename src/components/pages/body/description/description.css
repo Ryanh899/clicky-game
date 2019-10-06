@@ -1,0 +1,10 @@
+.bg {
+    border: 1px solid #000;
+    background-color: grey ;
+    width: 100vw;
+}
+
+.instructionText {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 30px; 
+}
